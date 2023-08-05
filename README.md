@@ -1,5 +1,5 @@
 # 💫 About Me:
-HELLO,👋 I'M SAI MOHAN SATTARI🤓<br><br>💻🔥 Frontend Developer: Creating visually stunning and user-friendly interfaces using HTML, CSS, JavaScript and React.<br><br>📚🔥 Passionate Learner: Eagerly exploring new technologies and frameworks to enhance frontend development skills.<br><br>💥🔥 Respove Design Advocate: Committed to building websites that adapt seamlessly across various devices and screen sizes.<br><br>🌐Find Me Online:<br><br>💠LinkedIn : saimohansattari<br><br>💠Instagram : SAI_MOHAN_SATTARI<br><br>💠E-mail : chinnasattari@gmail.com
+HELLO,👋 I'M SAI MOHAN SATTARI🤓<br><br>💻🔥 Frontend Developer: Creating visually stunning and user-friendly interfaces using HTML, CSS, JavaScript and React.<br><br>📚🔥 Passionate Learner: Eagerly exploring new technologies and frameworks to enhance frontend development skills.<br><br>💥🔥 Respove Design Advocate: Committed to building websites that adapt seamlessly across various devices and screen sizes.<br><br>🌐Find Me Online:<br><br>💠LinkedIn : SAI MOHAN SATTARI<br><br>💠Instagram : sms_4344 ( SAI MOHAN SATTARI )<br><br>💠E-mail : chinnasattari@gmail.com
 
 
 # 💻 Tech Stack:
